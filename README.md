@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexandru
-- 👀 I’m interested in PRogramming and  Cycling
+- 👀 I’m interested in Programming and  Cycling
 - 🌱 I’m currently learning Software Architecture best Practices
 - 💞️ I’m looking to collaborate on ideas
 - 📫 How to reach me alexander872009@gmail.com
